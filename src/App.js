@@ -24,7 +24,7 @@ function App() {
     <CardContent sx={{ textAlign: 'center' }}>
       <img src={PhotoEnzo} alt="Photo de profil" style={{ borderRadius: '50%', width: 150, height: 150 }} />
       <Typography variant="h5" component="div" sx={{ marginTop: 2 }}>
-        Enzo Francechini
+        Enzo Franceschini
       </Typography>
       <Typography variant="body2" color="text.secondary" sx={{ marginTop: 1 }}>
         Développeur web
